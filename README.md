@@ -1,2 +1,2 @@
 # html-basic-website
-"Basic html which includes paragraph , link and headings" 
+"Basic html using paragraph , link and headings" 
